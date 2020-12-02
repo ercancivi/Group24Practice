@@ -4,7 +4,9 @@ public class Main {
 
         System.out.println("Hello");
         System.out.println("Hello Hello");
-        System.out.println("How Are You Today");                   
+        System.out.println("How Are You Today");
+
+        firstMethod.method1();
                            
 
     }
