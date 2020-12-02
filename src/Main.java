@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Hello Hello");
         System.out.println("How Are You Today");
 
-        secondMethod.method2();
+        SecondMethod.method2();
 
         //working on secondMethod
                            
