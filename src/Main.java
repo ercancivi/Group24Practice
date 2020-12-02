@@ -9,6 +9,8 @@ public class Main {
         SecondMethod.method2();
 
         //working on secondMethod
+
+        FourthMethod.method4();
                            
 
     }
