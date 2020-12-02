@@ -7,6 +7,9 @@ public class Main {
         System.out.println("How Are You Today");
 
         SecondMethod.method2();
+        ThirdMethod.method3();
+
+
 
         //working on secondMethod
 
